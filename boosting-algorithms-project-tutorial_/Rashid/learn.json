@@ -1,0 +1,13 @@
+{
+	"slug" : "boosting-algorithms-project-tutorial",
+	"title" : "Boosting Algorithms Project Tutorial",
+	"preview": "https://github.com/4GeeksAcademy/boosting-algorithms-project-tutorial/blob/main/preview.png?raw=true",
+	"status": "published",
+	"translations": ["us"],
+	"technologies": ["data-science", "machine-learning"],
+	"difficulty": "beginner",
+	"syntax": "python",
+	"duration" : 2,
+    "projectType": "project",
+	"description" : "Use XGBoost algorithm "
+}
