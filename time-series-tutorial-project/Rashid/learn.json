@@ -1,0 +1,14 @@
+{
+	"slug" : "time-series-project-tutorial",
+	"title" : "Time Series Project Tutorial",
+	"preview": "https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/preview.png?raw=true",
+	"solution": "https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution_guide.ipynb",
+	"status": "published",
+	"translations": ["us"],
+	"technologies": ["data-science", "machine-learning"],
+	"difficulty": "beginner",
+	"syntax": "python",
+	"duration" : 2,
+    "projectType": "project",
+	"description" : "Use your new skills to help American Express improve their default prediction model."
+}
