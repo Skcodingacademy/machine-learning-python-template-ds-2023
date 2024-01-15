@@ -13,6 +13,7 @@ executing==2.0.1
 Flask==3.0.0
 fonttools==4.47.2
 greenlet==3.0.3
+gunicorn==21.2.0
 idna==3.6
 ipykernel==6.28.0
 ipyleaflet==0.18.1
